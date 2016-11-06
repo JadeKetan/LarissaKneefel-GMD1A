@@ -4,7 +4,7 @@ using System.Collections;
 public class BumperCollideer : MonoBehaviour {
     public Vector3 direction;
     public Rigidbody ball;
-    public float force = -10;
+    public float force = -30;
 
 
     // Use this for initialization

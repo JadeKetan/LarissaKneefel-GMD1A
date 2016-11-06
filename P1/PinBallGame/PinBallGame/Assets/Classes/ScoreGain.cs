@@ -9,7 +9,7 @@ public class ScoreGain : MonoBehaviour
 {
     if (gameObject.tag == "Bumper")
         {
-        ScoreGain2.scoreGainUp += 10;
+        ScoreGain2.scoreGainUp += 1;
         }
     }
 }

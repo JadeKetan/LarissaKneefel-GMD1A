@@ -6,10 +6,10 @@ public class ScoreGain2 : MonoBehaviour
 {
 
     public Text scoreText;
-    public static int scoreGainUp;
+    public static float scoreGainUp;
 
     void Update()
     {
-        scoreText.text = "Score " + scoreGainUp;
+        scoreText.text = "Score: " + scoreGainUp;
     }
 }

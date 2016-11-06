@@ -13,7 +13,7 @@ public class Flipper1 : MonoBehaviour
     private float t1; //rotatie op stilstaand moment van (draaiend) object
     public Vector3 direction; //directie voor collision
     public Rigidbody ball; //GameObject > bal
-    public float force = -10; //snelheid waarmee bal wegschiet
+    public float force = -50; //snelheid waarmee bal wegschiet
 
     // Use this for initialization
     void Start()
