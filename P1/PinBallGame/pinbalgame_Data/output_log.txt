@@ -14,25 +14,25 @@ Platform assembly: F:\LarissaKneefel-GMD1A\P1\PinBallGame\pinbalgame_Data\Manage
 Loading F:\LarissaKneefel-GMD1A\P1\PinBallGame\pinbalgame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: F:\LarissaKneefel-GMD1A\P1\PinBallGame\pinbalgame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading F:\LarissaKneefel-GMD1A\P1\PinBallGame\pinbalgame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.320 seconds
+- Completed reload, in  0.533 seconds
 Platform assembly: F:\LarissaKneefel-GMD1A\P1\PinBallGame\pinbalgame_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: F:\LarissaKneefel-GMD1A\P1\PinBallGame\pinbalgame_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.934882 ms
+UnloadTime: 1.508102 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 11.330247 ms
+UnloadTime: 11.075323 ms
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 629.
-Total: 0.699163 ms (FindLiveObjects: 0.103617 ms CreateObjectMapping: 0.035907 ms MarkObjects: 0.542711 ms  DeleteObjects: 0.015901 ms)
+Total: 0.637609 ms (FindLiveObjects: 0.107721 ms CreateObjectMapping: 0.050270 ms MarkObjects: 0.459612 ms  DeleteObjects: 0.017953 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.877431 ms
+UnloadTime: 1.457832 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 629.
-Total: 0.623758 ms (FindLiveObjects: 0.108234 ms CreateObjectMapping: 0.029238 ms MarkObjects: 0.476539 ms  DeleteObjects: 0.008207 ms)
+Total: 0.636583 ms (FindLiveObjects: 0.113877 ms CreateObjectMapping: 0.028725 ms MarkObjects: 0.482182 ms  DeleteObjects: 0.010259 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 17e0 -> priority: 1 
+  Thread -> id: b64 -> priority: 1 
